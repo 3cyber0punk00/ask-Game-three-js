@@ -1,0 +1,15 @@
+employer,amount,mask,firstName,lastName
+Coca-Cola,80,12345,Clark,Kent
+Pepsi,100,X8080,Bruce,Wayne
+Pepsi,30,X8081,John,Heisman
+Pepsi,40,X8081,John,Heisman
+Home Depot,60,23456,Jane,Doe
+Home Depot,50,54321,Jane,Doe
+Georgia Pacific,50,3456,Jane,Doe
+Georgia Pacific,40,9876,John,Doe
+Georgia Pacific,40,9876,John,Doe
+Chick-fil-a,82.50,12345,Truett,Cathy
+Zaxbys,80,*********,John,Smith
+Zaxbys,85,*********,Jane,Andrews
+Zaxbys,45,*********,Walter,Harris
+Zaxbys,40,*********,Cathy,Johnson
